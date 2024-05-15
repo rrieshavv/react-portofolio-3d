@@ -24,17 +24,14 @@ import sql from "./tech/sql.png";
 import dotnet from "./tech/dotnet.png";
 import csharp from "./tech/csharp.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 
 import aarshia from "./company/AI.png";
+
+import bibliorepo from "./bibliorepo.png";
+
 export {
+  bibliorepo,
   aarshia,
   dotnet,
   sql,
@@ -60,11 +57,5 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
   starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
 };

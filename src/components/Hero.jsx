@@ -20,8 +20,8 @@ const Hero = () => {
             Hi, I am <span className="text-[#915eff]">Rishav</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop software <br className="sm:block hidden" />
-            application using Dot Net Core.
+            Software developer <br className="sm:block hidden" />
+            with expertise in Dot Net Core & React.
           </p>
         </div>
       </div>
