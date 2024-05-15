@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import sql from "./tech/sql.png";
+import dotnet from "./tech/dotnet.png";
+import csharp from "./tech/csharp.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -30,7 +33,12 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import aarshia from "./company/AI.png";
 export {
+  aarshia,
+  dotnet,
+  sql,
+  csharp,
   logo,
   backend,
   creator,
