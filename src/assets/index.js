@@ -29,6 +29,8 @@ import starbucks from "./company/starbucks.png";
 import aarshia from "./company/AI.png";
 
 import bibliorepo from "./bibliorepo.png";
+import urlShortner from "./url-shortner.jpg";
+import biometric from "./biometric.jpg";
 
 export {
   bibliorepo,
@@ -58,4 +60,6 @@ export {
   typescript,
   threejs,
   starbucks,
+  urlShortner,
+  biometric,
 };
