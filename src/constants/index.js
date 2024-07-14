@@ -2,7 +2,6 @@ import {
   mobile,
   backend,
   creator,
-  web,
   javascript,
   typescript,
   html,
@@ -18,6 +17,9 @@ import {
   bibliorepo,
   urlShortner,
   biometric,
+  chhatra,
+  pradip,
+  nabin,
 } from "../assets";
 
 export const navLinks = [
@@ -43,10 +45,6 @@ const services = [
   {
     title: "Web Developer",
     icon: mobile,
-  },
-  {
-    title: "Mobile App Developer",
-    icon: web,
   },
   {
     title: "SEO & DevOps",
@@ -120,11 +118,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "He is a wonderful guy always excited about solving problems with tech.",
-    name: "Siwet Khadka",
-    designation: "Content Creator Expert",
-    company: "Upwork",
-    image: "https://randomuser.me/api/portraits/men/4.jpg",
+      "An enthusiastic problem solver, always bringing innovative tech solutions to the team.",
+    name: "Chhatra Rana",
+    designation: "Software Developer",
+    company: "Aarshia Infotech",
+    image: chhatra,
+  },
+  {
+    testimonial:
+      "Remarkable passion for technology and efficient software development ideas.",
+    name: "Pradip Bhandari",
+    designation: "CEO",
+    company: "Aarshia Infotech",
+    image: pradip,
+  },
+  {
+    testimonial:
+      "Committed to leveraging tech for innovative solutions, consistently impactful.",
+    name: "Nabin Mahato",
+    designation: "Founder",
+    company: "Aarshia Infotech",
+    image: nabin,
   },
 ];
 

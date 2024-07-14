@@ -32,6 +32,11 @@ import bibliorepo from "./bibliorepo.png";
 import urlShortner from "./url-shortner.jpg";
 import biometric from "./biometric.jpg";
 
+// testimonial pictures 
+import chhatra from "./people/chhatraRana.jpeg";
+import pradip from "./people/pradipBhandari.jpeg";
+import nabin from "./people/nabinMahato.jpg";
+
 export {
   bibliorepo,
   aarshia,
@@ -62,4 +67,7 @@ export {
   starbucks,
   urlShortner,
   biometric,
+  chhatra,
+  pradip,
+  nabin
 };
